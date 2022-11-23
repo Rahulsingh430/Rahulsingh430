@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rahulsingh430
-- 👀 I’m interested in Frontend Technology
-- 🌱 I’m currently learning Reduxtool kit
+- 👋 Hi, I’m Rahul Singh
+- I’m interested in Frontend Technology
+- I’m currently learning Reduxtool kit
 
 - 📫 How to reach me Er.rahulchonker@gmail.com.
 
