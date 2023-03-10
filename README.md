@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Singh
 - I’m interested in Frontend Technology
-- I’m currently learning Reduxtool kit
+- I’m currently learning Three.Js
 
 - 📫 How to reach me Er.rahulchonker@gmail.com.
 
